@@ -1,0 +1,105 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+section{
+    margin: 0px 45px 0px 45px;
+    padding-bottom: 45px;
+}
+.link-sec{
+    padding-top: 120px;
+}
+.link-sec2{
+    padding-top: 80px;
+}
+.link-sec3{
+    padding: 200px 0px 150px 0px ;
+}
+.link-sec4{
+    padding: 100px 0px 40px 0px ;
+}
+.link-sec5{
+    padding-top: 340px;
+}
+.link-sec6{
+    padding: 80px 0px 30px 0px ;
+}
+.sec2{
+    background-color: #F5F8FF;
+}
+.link-sec h1{
+    font-size: 60px;
+}
+.link-sec h3, .link-sec2 h3{
+    font-weight: 450;
+}
+.collapse{
+    padding-right: 70px;
+}
+.bton{
+    border: none;
+}
+.bton-white:hover{
+    background-color: #E9EBEE;
+}
+.bton2{
+    background-color: rgb(9, 113, 239);
+}
+.bton2:hover{
+    background-color: #014CEC;
+}
+.sec2-2{
+    padding: 90px 0px 0px 80px;
+}
+.coin-card{
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    border: 1px solid #F1F1F2;
+    padding: 10px 10px 0px 10px;
+    width: 160px;
+    height: 160px;
+    margin: 10px 20px 10px 0px;
+}
+.coin-per{
+    font-size: 24px;
+    font-weight: 500;
+}
+.blue-sec{
+    border-left: 1px solid white;
+}
+.blue-sec h1{
+    font-size: 100px;
+}
+.txt{
+    text-decoration: none;
+    color: black;
+}
+.txt :hover{
+    color: rgb(21, 80, 229);
+}
+.row{
+    padding: 120px 0px 0px 45px;
+    --bs-gutter-x: 0rem;
+}
+.row ul li{
+    list-style: none;
+}
+.row ul li a{
+    text-decoration: none;
+    color: #5B616E;
+}
+footer h4{
+    font-size: 17px;
+}
+ul{
+    padding: 0px 0px 0px 0px;
+}
+.app-hov :hover{
+    text-decoration: underline;
+    color: rgb(0, 115, 255);  
+}
+
